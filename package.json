@@ -1,7 +1,7 @@
 {
-  "name": "netlify-xhttp-relay",
+  "name": "ntlfyrlay",
   "version": "1.0.0",
-  "description": "Netlify Edge Function HTTP relay for your own upstream service",
+  "description": "School Project",
   "private": true,
   "license": "MIT",
   "scripts": {
